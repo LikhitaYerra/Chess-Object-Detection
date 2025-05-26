@@ -11,7 +11,7 @@
 
 ## 🌟 Project Overview
 
-**Chess Piece Detection with YOLOv5** is a computer vision project by **Likhita Yerra**, **Baptiste**, and **Shafiya**, aimed at building a robust system to detect and classify 12 distinct chess pieces (6 types × 2 colors) using the YOLOv5 model. Trained on a dataset of 1,592 images with 30,400 annotated instances, our model achieved an impressive **mAP@0.5 of 0.993**, showcasing high accuracy and reliability for chess analysis applications.
+**Chess Piece Detection with YOLOv5** is a computer vision project, aimed at building a robust system to detect and classify 12 distinct chess pieces (6 types × 2 colors) using the YOLOv5 model. Trained on a dataset of 1,592 images with 30,400 annotated instances, our model achieved an impressive **mAP@0.5 of 0.993**, showcasing high accuracy and reliability for chess analysis applications.
 
 ---
 
